@@ -20,7 +20,7 @@ A command-line tool to organize and manage project resources.
 1.  **Clone the repository:**
 
     ```
-    git clone https://github.com/your_username/organizer.git  # Replace with your repository URL
+    git clone https://github.com/Marshal0007/organizer.git  # Replace with your repository URL
     cd organizer
     ```
 
